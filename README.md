@@ -1,2 +1,1 @@
-# calculator
-#internship #codsoft
+# codsoft intenrhsip
